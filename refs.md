@@ -1,0 +1,5 @@
+* [Basics of Plasma simulations](http://w3.pppl.gov/~wwlee/Lecture_10_2.pdf)  
+* [Vlasov equation for long-range interactions on a lattice](http://perso.ens-lyon.fr/thierry.dauxois/PAPERS/pre_83_061132.2011.pdf)  
+* [Gravity in a lattice Boltzmann model](https://www.researchgate.net/publication/12291961_Gravity_in_a_lattice_Boltzmann_model)  
+* [Time-Independent Gravitational Fields in the BGK Scheme for Hydrodynamics](https://arxiv.org/pdf/astro-ph/9905247v1.pdf)
+* [A Practical Introduction to the Lattice Boltzmann Method](https://www.ndsu.edu/fileadmin/physics.ndsu.edu/Wagner/LBbook.pdf)
